@@ -1,0 +1,26 @@
+From 2d7d10f757ef23e3c03c09e22c5867b23504cb0b Mon Sep 17 00:00:00 2001
+From: JenilGajjar <gajjarjenil2004@gmail.com>
+Date: Tue, 21 Jan 2025 14:08:51 +0530
+Subject: [PATCH 2/7] created a new branch : branch1
+
+---
+ Demo1.html | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/Demo1.html b/Demo1.html
+index bb4b2fc..18a9340 100644
+--- a/Demo1.html
++++ b/Demo1.html
+@@ -35,6 +35,8 @@
+         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Commodi, adipisci!
+ 
+     </div>
++
++    <h1> chnages made in branch 1 from folder 1</h1>
+ </body>
+ 
+ </html>
+\ No newline at end of file
+-- 
+2.47.1.windows.2
+

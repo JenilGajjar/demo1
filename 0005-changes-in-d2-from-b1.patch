@@ -1,0 +1,24 @@
+From 229a4502032a6d5c76aba3fbdc2f7be39d708449 Mon Sep 17 00:00:00 2001
+From: JenilGajjar <gajjarjenil2004@gmail.com>
+Date: Tue, 21 Jan 2025 14:37:47 +0530
+Subject: [PATCH 5/7] changes in d2 from b1
+
+---
+ Demo2.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/Demo2.html b/Demo2.html
+index 8abe9fa..9128855 100644
+--- a/Demo2.html
++++ b/Demo2.html
+@@ -13,6 +13,7 @@
+ 
+   <h1> changes made in branch2 from branch2 </h1>
+ 
++  <p> content from b1</p>
+ </body>
+ 
+ </html>
+-- 
+2.47.1.windows.2
+

@@ -1,0 +1,26 @@
+From ccad46cae8b9a61d44c7b36572fd4c87fc00e13d Mon Sep 17 00:00:00 2001
+From: JenilGajjar <gajjarjenil2004@gmail.com>
+Date: Tue, 21 Jan 2025 14:05:44 +0530
+Subject: [PATCH 1/7] created a new branch for testing
+
+---
+ Demo2.html | 3 +++
+ 1 file changed, 3 insertions(+)
+
+diff --git a/Demo2.html b/Demo2.html
+index 7ec19a1..8abe9fa 100644
+--- a/Demo2.html
++++ b/Demo2.html
+@@ -10,6 +10,9 @@
+ <body>
+    <h1>this is a new file for changes</h1> 
+   <div> sdfklashlf werewoeohfihi hsdhkljsh sfhs khsakaskfsklf hksk</div>
++
++  <h1> changes made in branch2 from branch2 </h1>
++
+ </body>
+ 
+ </html>
+-- 
+2.47.1.windows.2
+

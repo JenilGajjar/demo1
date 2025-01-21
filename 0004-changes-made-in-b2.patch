@@ -1,0 +1,26 @@
+From 93013f49ad5f2fd7b4b495f6d4942069238c7373 Mon Sep 17 00:00:00 2001
+From: JenilGajjar <gajjarjenil2004@gmail.com>
+Date: Tue, 21 Jan 2025 14:31:38 +0530
+Subject: [PATCH 4/7] changes made in b2
+
+---
+ Demo1.html | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/Demo1.html b/Demo1.html
+index bb4b2fc..7581b50 100644
+--- a/Demo1.html
++++ b/Demo1.html
+@@ -35,6 +35,8 @@
+         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Commodi, adipisci!
+ 
+     </div>
++
++    <h1> latest changes from branch2</h1>
+ </body>
+ 
+ </html>
+\ No newline at end of file
+-- 
+2.47.1.windows.2
+

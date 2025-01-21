@@ -1,0 +1,26 @@
+From cdc1f8d9739c61930818a90ff5f103762c244c9b Mon Sep 17 00:00:00 2001
+From: JenilGajjar <gajjarjenil2004@gmail.com>
+Date: Tue, 21 Jan 2025 14:30:32 +0530
+Subject: [PATCH 3/7] some changes from b1
+
+---
+ Demo1.html | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/Demo1.html b/Demo1.html
+index 18a9340..cea4ad0 100644
+--- a/Demo1.html
++++ b/Demo1.html
+@@ -37,6 +37,8 @@
+     </div>
+ 
+     <h1> chnages made in branch 1 from folder 1</h1>
++
++    <h1>latest changes made by b1 </h1>
+ </body>
+ 
+ </html>
+\ No newline at end of file
+-- 
+2.47.1.windows.2
+
